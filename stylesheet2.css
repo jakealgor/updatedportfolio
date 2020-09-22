@@ -1,0 +1,25 @@
+footer{
+    text-align: center;
+}
+​
+.navbar-brand{
+    font-weight: bold;
+}
+​
+form{
+    text-align: center;
+    margin: auto 0;
+}
+
+body{
+    background-color: yellowgreen;
+}
+
+footer{
+    text-align: center;
+}
+
+
+.container {
+    background-color: white;
+}
